@@ -6,5 +6,10 @@ The **results** of the project can be seen from running [dataproject.ipynb](data
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
-``pip install matplotlib-venn``
-``pip install plotly==4.5.4``
+''pip install numpy''
+''pip install pandas''
+''pip install alpha_vantage.timeseries''
+''pip install pyplot''
+''pip install plotly''
+''pip install bs4''
+''pip install requests''
